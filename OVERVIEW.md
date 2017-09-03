@@ -1,6 +1,6 @@
 # Course Overview - ICS4U
 
-**School**: John Fraser Secondary School  
+**School**: A.Y. Jackson Secondary School  
 **Department**: Business/Technology  
 **Course**: Computer Science, Grade 12, University Level  
 **Course Fee**: None  
@@ -22,7 +22,7 @@ This course enables students to further develop knowledge and skills in computer
 * Skills such as the ability to work independently, demonstrate teamwork, efficient work/study skills, and initiative will be assessed and reported separately from the subject grade.
 
 #### Sample Tasks
-Students will complete the following sample tasks during the team, in which an equal distribution and weighting will be placed upon the student's demonstration of knowledge, their ability communicate, think, and apply the knowledge:
+Students will complete the following sample tasks during the term, in which an equal distribution and weighting will be placed upon the student's demonstration of knowledge, their ability communicate, think, and apply the knowledge:
 * Written Reports
 * Presentations
 * Interviews
