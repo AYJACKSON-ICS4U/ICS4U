@@ -1,5 +1,5 @@
 # ICS4U
-ICS4U Course for Mr. Seidel's classes
+ICS4U Course for Mr. Osudar's classes
 
-* [Course Overview](https://github.com/mrseidel-classes/ICS4U/blob/master/OVERVIEW.md)
-* [Tentative Topics and Resources](https://github.com/mrseidel-classes/ICS4U/blob/master/HELP.md)
+* (change)[Course Overview](https://github.com/mrseidel-classes/ICS4U/blob/master/OVERVIEW.md)
+* (change)[Tentative Topics and Resources](https://github.com/mrseidel-classes/ICS4U/blob/master/HELP.md)
